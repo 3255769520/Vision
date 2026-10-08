@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+.env
+.env.*
+
+# OpenCV / lab runtime outputs
+test1/output/
+*.avi
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
